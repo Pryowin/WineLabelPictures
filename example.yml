@@ -1,0 +1,4 @@
+accessKey: '32 character bing api key'
+userPath: '/Users/your.name/'
+csv: 'filename.csv'
+apiLimitDelay: 1
